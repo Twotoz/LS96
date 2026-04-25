@@ -1100,3 +1100,5 @@ The result should be a 1S quad that feels:
 In one sentence:
 
 > **A 96 mm 1S 2-inch high-KV toothpick designed for instant response, extreme punch, and a larger-quad locked-in feel without the lazy spool of bigger props.**
+
+<img width="902" height="727" alt="image" src="https://github.com/user-attachments/assets/178544a8-17a7-46b0-a7b9-42705a5da658" />
