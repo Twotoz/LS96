@@ -1,5 +1,7 @@
 # 1S 2-Inch High-KV Toothpick FPV Quad
 
+<img width="1217" height="552" alt="image" src="https://github.com/user-attachments/assets/a51117b1-e8a8-47fb-9bc2-5b7ddc86eab1" />
+
 A custom ultra-light **1S 2-inch toothpick FPV quad** designed around a specific idea:
 
 > **Use a small, high-KV 2-inch powertrain for extreme responsiveness and punch, but place it on a larger 96 mm frame to gain stability, grip, protection, and a more locked-in flight feel.**
