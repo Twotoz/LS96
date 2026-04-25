@@ -157,6 +157,7 @@ This is extremely light for a 96 mm frame that can support larger-than-normal 2-
 ## Why a 96 mm Frame?
 
 Most normal 2-inch toothpick frames are around **85 mm**. This frame is larger at **96 mm**, which gives several advantages.
+<img width="752" height="713" alt="image" src="https://github.com/user-attachments/assets/990023fd-805e-49ac-bc28-520ae15af17d" />
 
 ### 1. More Control Authority
 
