@@ -1,4 +1,4 @@
-# SL96: 1S 2-Inch 1002 Toothpick FPV Quad
+# LS96: 1S 2-Inch 1002 Toothpick FPV Quad
 
 An ultra-light 1S 2-inch toothpick build focused on very high thrust-to-weight, fast prop response, and minimal all-up weight.
 
